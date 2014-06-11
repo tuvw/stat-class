@@ -6,11 +6,12 @@
 * Goes from raw data to data products
 
 ---
-## Data Science Specialization 
+# Data Science Specialization 
 
-li Uses R 
-li Nine courses 
-li Goes from raw data to data products
+* Uses R 
+* Nine courses 
+* Goes from raw data to data products
+
 
 ---
 ## Data Science Specialization 
